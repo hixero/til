@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hixero.github.io/til/blog</id>
+    <title>H1X3R0 Blog</title>
+    <updated>2024-01-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hixero.github.io/til/blog"/>
+    <subtitle>H1X3R0 Blog</subtitle>
+    <icon>https://hixero.github.io/til/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://hixero.github.io/til/blog/first-blog-post</id>
+        <link href="https://hixero.github.io/til/blog/first-blog-post"/>
+        <updated>2024-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting Started with Docusaurus!]]></summary>
+        <content type="html"><![CDATA[<p>Getting Started with Docusaurus!</p>]]></content>
+        <author>
+            <name>H1Z3R0</name>
+            <uri>https://github.com/hixero</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="h1z3r0" term="h1z3r0"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
