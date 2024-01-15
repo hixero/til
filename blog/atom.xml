@@ -2,15 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hixero.github.io/til/blog</id>
     <title>H1X3R0 Blog</title>
-    <updated>2024-01-09T00:00:00.000Z</updated>
+    <updated>2024-01-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hixero.github.io/til/blog"/>
     <subtitle>H1X3R0 Blog</subtitle>
     <icon>https://hixero.github.io/til/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://hixero.github.io/til/blog/first-blog-post</id>
-        <link href="https://hixero.github.io/til/blog/first-blog-post"/>
+        <title type="html"><![CDATA[TIL 2024-01-15]]></title>
+        <id>https://hixero.github.io/til/blog/til-2024-01-15</id>
+        <link href="https://hixero.github.io/til/blog/til-2024-01-15"/>
+        <updated>2024-01-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[구름]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="구름"><a href="https://level.goorm.io/" target="_blank" rel="noopener noreferrer">구름</a><a href="https://hixero.github.io/til/blog/til-2024-01-15#%EA%B5%AC%EB%A6%84" class="hash-link" aria-label="구름에 대한 직접 링크" title="구름에 대한 직접 링크">​</a></h2>
+<ul>
+<li><a href="https://level.goorm.io/l/training/basic" target="_blank" rel="noopener noreferrer">난이도 1</a> 완료</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nestjs"><a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">NestJS</a><a href="https://hixero.github.io/til/blog/til-2024-01-15#nestjs" class="hash-link" aria-label="nestjs에 대한 직접 링크" title="nestjs에 대한 직접 링크">​</a></h2>
+<ul>
+<li><a href="https://docs.nestjs.com/" target="_blank" rel="noopener noreferrer">NestJS Overview</a> 미들웨어</li>
+</ul>]]></content>
+        <author>
+            <name>H1Z3R0</name>
+            <uri>https://github.com/hixero</uri>
+        </author>
+        <category label="til" term="til"/>
+        <category label="h1z3r0" term="h1z3r0"/>
+        <category label="2024" term="2024"/>
+        <category label="2024-01" term="2024-01"/>
+        <category label="2024-01-09" term="2024-01-09"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL 2024-01-09]]></title>
+        <id>https://hixero.github.io/til/blog/til-2024-01-09</id>
+        <link href="https://hixero.github.io/til/blog/til-2024-01-09"/>
         <updated>2024-01-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Getting Started with Docusaurus!]]></summary>
         <content type="html"><![CDATA[<p>Getting Started with Docusaurus!</p>]]></content>
@@ -18,8 +42,10 @@
             <name>H1Z3R0</name>
             <uri>https://github.com/hixero</uri>
         </author>
-        <category label="hola" term="hola"/>
+        <category label="til" term="til"/>
         <category label="h1z3r0" term="h1z3r0"/>
-        <category label="docusaurus" term="docusaurus"/>
+        <category label="2024" term="2024"/>
+        <category label="2024-01" term="2024-01"/>
+        <category label="2024-01-09" term="2024-01-09"/>
     </entry>
 </feed>

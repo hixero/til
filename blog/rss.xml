@@ -4,20 +4,42 @@
         <title>H1X3R0 Blog</title>
         <link>https://hixero.github.io/til/blog</link>
         <description>H1X3R0 Blog</description>
-        <lastBuildDate>Tue, 09 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
         <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://hixero.github.io/til/blog/first-blog-post</link>
-            <guid>https://hixero.github.io/til/blog/first-blog-post</guid>
+            <title><![CDATA[TIL 2024-01-15]]></title>
+            <link>https://hixero.github.io/til/blog/til-2024-01-15</link>
+            <guid>https://hixero.github.io/til/blog/til-2024-01-15</guid>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[구름]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="구름"><a href="https://level.goorm.io/" target="_blank" rel="noopener noreferrer">구름</a><a href="https://hixero.github.io/til/blog/til-2024-01-15#%EA%B5%AC%EB%A6%84" class="hash-link" aria-label="구름에 대한 직접 링크" title="구름에 대한 직접 링크">​</a></h2>
+<ul>
+<li><a href="https://level.goorm.io/l/training/basic" target="_blank" rel="noopener noreferrer">난이도 1</a> 완료</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nestjs"><a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">NestJS</a><a href="https://hixero.github.io/til/blog/til-2024-01-15#nestjs" class="hash-link" aria-label="nestjs에 대한 직접 링크" title="nestjs에 대한 직접 링크">​</a></h2>
+<ul>
+<li><a href="https://docs.nestjs.com/" target="_blank" rel="noopener noreferrer">NestJS Overview</a> 미들웨어</li>
+</ul>]]></content:encoded>
+            <category>til</category>
+            <category>h1z3r0</category>
+            <category>2024</category>
+            <category>2024-01</category>
+            <category>2024-01-09</category>
+        </item>
+        <item>
+            <title><![CDATA[TIL 2024-01-09]]></title>
+            <link>https://hixero.github.io/til/blog/til-2024-01-09</link>
+            <guid>https://hixero.github.io/til/blog/til-2024-01-09</guid>
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[Getting Started with Docusaurus!]]></description>
             <content:encoded><![CDATA[<p>Getting Started with Docusaurus!</p>]]></content:encoded>
-            <category>hola</category>
+            <category>til</category>
             <category>h1z3r0</category>
-            <category>docusaurus</category>
+            <category>2024</category>
+            <category>2024-01</category>
+            <category>2024-01-09</category>
         </item>
     </channel>
 </rss>

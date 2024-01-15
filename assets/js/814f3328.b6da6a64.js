@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktil_docusaurus=self.webpackChunktil_docusaurus||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"First Blog Post","permalink":"/til/blog/first-blog-post","unlisted":false}]}')}}]);
