@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktil_docusaurus=self.webpackChunktil_docusaurus||[]).push([[4309],{354:s=>{s.exports=JSON.parse('{"label":"2024-01-09","permalink":"/til/blog/tags/2024-01-09","allTagsPath":"/til/blog/tags","count":2,"unlisted":false}')}}]);
