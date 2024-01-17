@@ -4,10 +4,25 @@
         <title>H1X3R0 Blog</title>
         <link>https://hixero.github.io/til/blog</link>
         <description>H1X3R0 Blog</description>
-        <lastBuildDate>Tue, 16 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
+        <item>
+            <title><![CDATA[TIL 2024-01-17]]></title>
+            <link>https://hixero.github.io/til/blog/til-2024-01-17</link>
+            <guid>https://hixero.github.io/til/blog/til-2024-01-17</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[구름]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="구름"><a href="https://level.goorm.io/" target="_blank" rel="noopener noreferrer">구름</a><a href="https://hixero.github.io/til/blog/til-2024-01-17#%EA%B5%AC%EB%A6%84" class="hash-link" aria-label="구름에 대한 직접 링크" title="구름에 대한 직접 링크">​</a></h2>
+<ul>
+<li><a href="https://level.goorm.io/l/training/basic" target="_blank" rel="noopener noreferrer">난이도 3</a> 완료</li>
+</ul>]]></content:encoded>
+            <category>til</category>
+            <category>h1z3r0</category>
+            <category>2024</category>
+            <category>2024-01</category>
+        </item>
         <item>
             <title><![CDATA[TIL 2024-01-16]]></title>
             <link>https://hixero.github.io/til/blog/til-2024-01-16</link>
